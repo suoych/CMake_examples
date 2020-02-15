@@ -1,10 +1,10 @@
 # CMake_examples
 Some simple project examples using CMake.
 
-* [hello_world项目实例](https://github.com/suoych/CMake_examples/hello_world)
-* [hello_world库、安装规则与测试示例](https://github.com/suoych/CMake_examples/hello_world_lib)
-* [GLOB示例](https://github.com/suoych/CMake_examples/GLOB_example)
-* [add_custom_command和add_custom_target示例](https://github.com/suoych/CMake_examples/add_custom_example)
+* [hello_world项目实例](https://github.com/suoych/CMake_examples/tree/master/hello_world)
+* [hello_world库、安装规则与测试示例](https://github.com/suoych/CMake_examples/tree/master/hello_world_lib)
+* [GLOB示例](https://github.com/suoych/CMake_examples/tree/master/GLOB_example)
+* [add_custom_command和add_custom_target示例](https://github.com/suoych/CMake_examples/tree/master/add_custom_example)
 
 想尝试某个例子，在对应例子目录下输入以下指令即可：
 ```bash
